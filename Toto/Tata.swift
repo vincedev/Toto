@@ -3,5 +3,5 @@
 import Foundation
 
 public struct Tata {
-	let name: String
+	public let name: String
 }
