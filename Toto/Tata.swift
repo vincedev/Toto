@@ -2,6 +2,6 @@
 
 import Foundation
 
-struct Tata {
+public struct Tata {
 	let name: String
 }
