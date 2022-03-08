@@ -6,4 +6,5 @@ import Swift
 @_exported import Toto
 import _Concurrency
 public struct Tata {
+  public let name: Swift.String
 }
