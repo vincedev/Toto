@@ -15,6 +15,7 @@
 		BF55304127D7BA3000D66DF8 /* Toto.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Toto.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF55304427D7BA3000D66DF8 /* Toto.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Toto.h; sourceTree = "<group>"; };
 		BF55304B27D7BA3F00D66DF8 /* Tata.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tata.swift; sourceTree = "<group>"; };
+		BF55304D27D7BE4B00D66DF8 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +32,7 @@
 		BF55303727D7BA3000D66DF8 = {
 			isa = PBXGroup;
 			children = (
+				BF55304D27D7BE4B00D66DF8 /* Package.swift */,
 				BF55304327D7BA3000D66DF8 /* Toto */,
 				BF55304227D7BA3000D66DF8 /* Products */,
 			);
