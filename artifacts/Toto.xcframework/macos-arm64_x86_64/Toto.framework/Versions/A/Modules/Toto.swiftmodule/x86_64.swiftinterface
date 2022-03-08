@@ -7,4 +7,5 @@ import Swift
 import _Concurrency
 public struct Tata {
   public let name: Swift.String
+  public init(name: Swift.String)
 }
